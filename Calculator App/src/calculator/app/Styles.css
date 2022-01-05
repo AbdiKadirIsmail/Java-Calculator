@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+ /**
+ *
+ * @author Abdi Ismail
+ */
+
+ .parent{
+     -fx-background-color: #fff;
+     -fx-border-color:white;
+ }
+ .btns{
+     -fx-background-color: #02032c;
+     -fx-text-fill:white;
+     -fx-border-color:white;
+ }
+ .btns:hover{
+    -fx-background-color: #3CA6D9;
+}
+.btns:default{
+    -fx-background-color: #02032c;
+}
+ .radBtns{
+     -fx-text-fill:white;
+ }
+ .TextField{
+     -fx-border-color:white;
+ }
+ .menuBar{
+     -fx-background-color: white;
+     -fx-border-color:white;
+     -fx-text-fill:white;
+     
+ }
+ .Pane{
+     -fx-background-color: #02032c;
+     -fx-border-color:white;
+ }
